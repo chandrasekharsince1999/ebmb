@@ -1,0 +1,170 @@
+body{
+  margin: 0;
+  text-align: center;
+}
+h1
+{
+  margin-top: 0;
+
+font-family: monospace;
+}
+.top-container
+{
+  background-color:#c2f0fc;
+  height:1000px;
+}
+.heading{
+  position: absolute;
+  top: 125px;
+  right:300px;
+  left: 300px;
+  font-size: 50px;
+font-family: inherit;}
+.heading2
+{
+  position: absolute;
+  bottom: 240px;
+
+  left: 30px;
+
+
+}
+
+
+ .pro
+ {
+   text-decoration: underline;
+ }
+ .iconpage
+ {
+   position: absolute;
+   top: 20px;
+   left: 20px;
+ }
+
+ .bottem-cloud{
+   position: absolute;
+    right:400px;
+    top:100;
+ }
+ .top-cloud{
+   position: absolute;
+   left:400px;
+   bottom: 500px;
+ }
+.bottem-mountain
+{
+  position: absolute;
+  bottom:30px;
+  right:400px;
+}
+.tablexy
+{
+  font-size: 30px;
+  position: absolute;
+  bottom: 30px;
+  left: 20px;
+
+}
+.middle-container
+{
+  background-color:white;
+  height: 500px;
+}
+  .paragraph1
+  {
+    font-size: 20px;
+    background-color:white;
+    position: absolute;
+    right: 300px;
+    left: 300px;
+  }
+  .paragraph2
+  {
+    background-color: #fab7b7;
+    position: absolute;
+    right: 300px;
+    left:300px;
+  }
+    .paragraph3
+{
+  background-color: white;
+  position: absolute;
+  right: 300px;
+  left: 300px;
+  font-size: 20px;
+}
+.drug
+{
+  position: absolute;
+  top: 1740px;
+  right: 300px;
+  left: 300px;
+  width: 30%;
+}
+.paragraph4
+{
+  position: absolute;
+  right: 300px;
+  left:300px;
+  top: 2150px;
+  font-size: 20px;
+}
+.friedrich
+{
+  width: 25%;
+  position:absolute;
+  right:600px;
+  left:700px;
+  top: 2320px;
+
+}
+.paragraph5
+{
+  position: absolute;
+  right: 300px;
+  left:300px;
+  top: 2750px;
+  font-size: 20px;
+}
+.paragraph6
+{
+  position: absolute;
+  right: 300px;
+  left:300px;
+  top: 3350px;
+  font-size: 20px;
+}
+.paragraph7
+{
+  position: absolute;
+  right: 300px;
+  left:300px;
+  top: 3550px;
+  font-size: 20px;}
+  .paragraph8
+  {
+    position: absolute;
+    right: 300px;
+    left:300px;
+    top: 3790px;
+    font-size: 20px;
+  }
+.paragraph9{
+  position: absolute;
+right: 300px;
+left:300px;
+top: 3990px;
+font-size:20px;
+
+}
+.final
+{
+
+  background-color: #708160;
+  height: 400px;
+  width: 100%;
+  position: absolute;
+  top: 4820px;
+
+}
